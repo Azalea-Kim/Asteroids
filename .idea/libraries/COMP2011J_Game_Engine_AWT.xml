@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="COMP2011J.Game.Engine.AWT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/COMP2011J.Game.Engine.AWT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/libs/COMP2011J.Game.Engine.AWT.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/libs/COMP2011J.Game.Engine.AWT.jar!/" />
+    </SOURCES>
+  </library>
+</component>
